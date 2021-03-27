@@ -9,9 +9,8 @@
 
 
 
-Ubuntu, one can install the mandatory build dependencies with:
----
-cmake -DCMAKE_CXX_FLAGS=-march=corei7-avx -std=c++1z  -std=c11 -std=c++14 -lboost_system -Wall -Wpedantic -lconfig++ -lconfig ./
+
+
 
 
 ORAN blocks:
