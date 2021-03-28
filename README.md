@@ -25,3 +25,10 @@ ORAN: L1 tasks processing diagram:
 ORAN: PBCH processing flow diagram:
 ---
 ![Альтернативный текст](/image_src/ORAN_PBCH_processing_flow_diagram.jpg)
+
+
+gNB init example, based on 3GPP
+---
+![Альтернативный текст](/image_src/gNB_init_3GPP.jpg)
+
+
